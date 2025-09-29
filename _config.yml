@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "The QuArtz Cluster"
-description:	       "We run arts programming for queer and trans Asian youth in Toronto"
+description:	       "A grassroots organizing that runs arts programming for queer and trans Asian youth in Toronto"
 author:              "The QuArtz Cluster"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
